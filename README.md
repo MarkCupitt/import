@@ -18,7 +18,7 @@ You'll need NodeJS installed and a running MySQL server instance.
 
 ## Import
 
-- Download some OSM files, i.e. from <a href="http://download.geofabrik.de">Geofabrik</a> or from <a href="http://metro.teczno.com/">Metro Extraxts</a>.
+- Download some OSM files, i.e. from <a href="http://download.geofabrik.de">Geofabrik</a> or from <a href="http://metro.teczno.com/">Metro Extracts</a>.
 Don't extract the files, it's done for you automatically :-)
 - Run `node import.js {YOURFILE}.osm.bz2`
 
