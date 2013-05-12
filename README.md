@@ -18,4 +18,9 @@ Don't extract the files, it's done for you automatically :-)
 
 # Import
 
-Run `import.js {YOURFILE}.osm.bz2`
+Run `node import.js {YOURFILE}.osm.bz2`
+
+# Copyright
+
+The BZ2 Extraction code is taken from Apache's BZ2 Toolkit. Respect the according licences.
+Despite tha, it's free for all.
