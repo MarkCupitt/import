@@ -1,0 +1,22 @@
+{
+  "name": "osmb-import",
+  "private": false,
+  "description": "OSM Buildings data import",
+  "version": "0.1.0",
+  "homepage": "http://osmbuildings.org",
+  "author": "@kekscom",
+  "contributors": [
+    "Jan Marsch <jama@keks.com>"
+  ],
+  "maintainers": [],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:OSMBuildings/import.git"
+  },
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {
+    "mysql": "~2.0.0"
+  },
+  "optionalDependencies": {}
+}
